@@ -1,1 +1,2 @@
-"# coursera_bioinformatics1" 
+# coursera_bioinformatics1
+notebook for code challenge
