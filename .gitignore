@@ -1,0 +1,8 @@
+# Jupyter notebook
+.ipython_checkpoints
+
+# data directory
+data/
+
+# answer directory
+answer/
