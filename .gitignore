@@ -1,5 +1,9 @@
 # Jupyter notebook
 .ipynb_checkpoints
+*ipynb
+
+# vs code
+.vscode
 
 # data directory
 data/
