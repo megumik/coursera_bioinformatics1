@@ -1,6 +1,6 @@
 # Jupyter notebook
 .ipynb_checkpoints
-*ipynb
+*.ipynb
 
 # vs code
 .vscode
